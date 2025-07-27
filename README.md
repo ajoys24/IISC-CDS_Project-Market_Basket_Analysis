@@ -7,3 +7,4 @@ Integrate the data and identify the underlying pattern or structure
 understand the fundamentals of market basket analysis
 
 construct "rules" that provide concrete recommendations for businesses
+Apply Apriori algorithm
